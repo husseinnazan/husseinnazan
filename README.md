@@ -2,6 +2,8 @@
 
 Backend developer (Python/FastAPI) working toward cloud → MLOps. Starting a Computer Science degree at Lebanese University this fall. Based in Lebanon, targeting remote roles.
 
+![Profile Views](https://komarev.com/ghpvc/?username=husseinnazan&color=6e4b7a&style=flat-square&label=Profile+Views)
+
 ## Building
 
 - **[StudyCorner](https://github.com/husseinnazan/StudyCorner)** — FastAPI + SQLite REST API for notes, tasks, and Pomodoro session tracking. Full CRUD across all three, deliberately no auth yet (single-user by design).
@@ -22,4 +24,4 @@ Rounding out frontend fundamentals (React, TypeScript) before moving into cloud 
 
 ## Connect
 
-[LinkedIn](#)
+[LinkedIn](https://www.linkedin.com/in/hussein-azan-8b3692316/)
