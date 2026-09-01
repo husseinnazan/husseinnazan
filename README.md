@@ -11,11 +11,11 @@ Backend developer (Python/FastAPI) working toward cloud → MLOps. Starting a Co
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,sqlite,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,sqlite,git,bash,javascript)](https://skillicons.dev)
 
 ## Currently
 
-Rounding out frontend fundamentals (React, TypeScript) before moving into cloud & DevOps — Docker, Kubernetes, AWS, and Go.
+starting the journey of diving in the world of cloud / devops , before diving in the world of Ml,Mlops
 
 ## GitHub Stats
 
