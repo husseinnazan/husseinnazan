@@ -15,7 +15,7 @@ Backend developer (Python/FastAPI) working toward cloud → MLOps. Starting a Co
 
 ## Currently
 
-starting the journey of diving in the world of cloud / devops , before diving in the world of Ml,Mlops
+starting the journey of diving in the world of software engineering , before diving in the world of Ml,Mlops
 
 ## GitHub Stats
 
