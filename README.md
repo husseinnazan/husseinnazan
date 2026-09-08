@@ -6,7 +6,7 @@ Backend developer (Python/FastAPI) working toward cloud → MLOps. Starting a Co
 
 ## Building
 
-- **[StudyCorner](https://github.com/husseinnazan/StudyCorner)** — FastAPI + SQLite REST API for notes, tasks, and Pomodoro session tracking. Full CRUD across all three, deliberately no auth yet (single-user by design).
+- **[StudyCorner](https://github.com/husseinnazan/StudyCorner)** — FastAPI + SQLite REST API for notes, tasks, and Pomodoro session tracking. Full CRUD across all three,
 - **[mlops-journey](https://github.com/husseinnazan/mlops-journey)** — public learning log tracking the path from backend fundamentals toward MLOps: Git, Bash, Python, SQL, and everything after, documented as it happens.
 
 ## Stack
