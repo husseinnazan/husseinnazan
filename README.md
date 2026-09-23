@@ -1,6 +1,6 @@
 # Hussein Azan
 
-Backend developer (Python/FastAPI) working toward cloud → MLOps. Starting a Computer Science degree at Lebanese University this fall. Based in Lebanon, targeting remote roles.
+aspiring software engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=husseinnazan&color=6e4b7a&style=flat-square&label=Profile+Views)
 
